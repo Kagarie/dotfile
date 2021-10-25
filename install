@@ -6,7 +6,7 @@ rouge='\e[0;31m'
 neutre='\e[0;m' 
 
 
-testPackage=('yay' 'zsh' lsd' 'htop' 'youtube-dl' 'ffmpeg')
+testPackage=('yay' 'zsh' 'lsd' 'htop' 'youtube-dl' 'ffmpeg')
 noPresent=()
 
 echo -e "${vert}Presence test\n"
