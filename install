@@ -41,6 +41,6 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 echo -e "${vert}Config"
 
 mkdir ~/.config/aliases
-cp -r 
+cp -r aliase.sh ~/.config/aliases/aliase.sh
 echo "source ~/.config/aliases/aliase.sh" >> ~/.zshrc
 echo -e "${vert}END"
